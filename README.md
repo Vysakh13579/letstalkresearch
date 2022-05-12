@@ -2,7 +2,13 @@
 
 This is a GitHub Repository containing all the resources and relevant material in the "Let's Talk Research" session. The session was delivered on 2nd of May, 2022, at the New Lecture Hall complex in IIT (ISM) Dhanbad.
 
-Contact details of our speakers along their subject are also included.
+The LTR-merged PDF is the compiled PDF containing all the presentation slides that our speakers used during the session. It consists of all the general slides for starting your journey in the research world and the specific areas of work that our speakers talked about. It also contains links and QR codes for all the resources you may require during your quest.
+
+We highly recommend everyone to go through the presentation slides and make the best use of the resources we have provided. We highly encourage the interested people to allow themselves the opportunity to explore and find their topic of interest. 
+
+Finally, if you do find something interesting enough and want to `talk research,' please feel free to contact any one of our speakers for all sorts of guidance. 
+
+Contact details of our speakers along with their subject are also included.
 
 Chaitanya Paranjape(Theoretical Physics) : chaitanyaparanjape614@gmail.com , https://cpsquared.github.io/       
 Vysakh (Astronomy and Astrophysics) : vysakh.official1999@gmail.com , https://www.linkedin.com/in/vysakh13579/  
