@@ -8,7 +8,7 @@ We highly recommend everyone to go through the presentation slides and make the 
 
 Finally, if you do find something interesting enough and want to `talk research,' please feel free to contact any one of our speakers for all sorts of guidance. 
 
-Contact details of our speakers along with their subject are also included.
+Contact details of our speakers along with their subjects are also included.
 
 Chaitanya Paranjape(Theoretical Physics) : chaitanyaparanjape614@gmail.com , https://cpsquared.github.io/       
 Vysakh (Astronomy and Astrophysics) : vysakh.official1999@gmail.com , https://www.linkedin.com/in/vysakh13579/  
