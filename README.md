@@ -1,5 +1,7 @@
 # let's talk research.
 
+The aim of the "Let's Talk Research" session was to encourage the students to pursue research on any topic of their interest. We talked about multiple fields of study and discussed how one could start exploring their interest. 
+
 This is a GitHub Repository containing all the resources and relevant material in the "Let's Talk Research" session. The session was delivered on 2nd of May, 2022, at the New Lecture Hall complex in IIT (ISM) Dhanbad.
 
 The LTR-merged PDF is the compiled PDF containing all the presentation slides that our speakers used during the session. It consists of all the general slides for starting your journey in the research world and the specific areas of work that our speakers talked about. It also contains links and QR codes for all the resources you may require during your quest.
