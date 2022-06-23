@@ -2,7 +2,9 @@
 
 The aim of the "Let's Talk Research" session was to encourage the students to pursue research on any topic of their interest. We talked about multiple fields of study and discussed how one could start exploring their interest. 
 
-This is a GitHub Repository containing all the resources and relevant material in the "Let's Talk Research" session. The session was delivered on 2nd of May, 2022, at the New Lecture Hall complex in IIT (ISM) Dhanbad.
+This is a GitHub Repository containing all the resources and relevant material in the "Let's Talk Research" session. The session was delivered on 2nd of May, 2022, at the New Lecture Hall complex in IIT (ISM) Dhanbad. The complete recording of the session is available at : https://www.youtube.com/watch?v=EbWzCEtm_eY
+
+The 'Let's Talk Research' Team is extremely thankful to the time and efforts of Mailer Daemon society, for providing the complete recording of our session. Mailer Daemon is a student run newletter society at IIT (ISM) Dhanbad.
 
 The LTR-merged PDF is the compiled PDF containing all the presentation slides that our speakers used during the session. It consists of all the general slides for starting your journey in the research world and the specific areas of work that our speakers talked about. It also contains links and QR codes for all the resources you may require during your quest.
 
