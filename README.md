@@ -14,7 +14,7 @@ Finally, if you do find something interesting enough and want to `talk research,
 
 Contact details of our speakers along with their subjects are also included.
 
-Chaitanya Paranjape(Theoretical Particle Physics) : chaitanyaparanjape614@gmail.com , https://cpsquared.github.io/       
+Chaitanya Paranjape(Theoretical Physics) : chaitanyaparanjape614@gmail.com , https://cpsquared.github.io/       
 Vysakh (Astronomy and Astrophysics) : vysakh.official1999@gmail.com , https://www.linkedin.com/in/vysakh13579/  
 Rishab Tiwari (Machine Learning) : akchitra99@gmail.com, https://www.linkedin.com/in/rishabh-tiwari16  
 Kasina Jyothi Swaroop(Robotics) : kasina.18je0405@ee.iitism.ac.in, https://www.linkedin.com/in/kjswaroop-robotics  
